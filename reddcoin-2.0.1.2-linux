@@ -1,0 +1,6 @@
+Readme
+Prendere i 2 file xaa e xab metterli insieme in una cartella e dare il comando 
+
+cat xa? > reddcoin.tar.gz
+
+per ricostruire il file 
