@@ -1,0 +1,5 @@
+Prendere i 2 file reddcoin-a e reddcoin-b metterli insieme in una cartella e dare il comando 
+
+cat reddcoin-? > reddcoin.tar.gz
+
+per ricostruire il file 
