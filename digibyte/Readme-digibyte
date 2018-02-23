@@ -1,0 +1,5 @@
+Mettere i file digibyte-a e digibyte-b in una cartella e dare il comando
+
+cat digibyte-? > digibyte-6.14.2-x86_64-linux-gnu.tar.gz
+
+per ricomporre il file
